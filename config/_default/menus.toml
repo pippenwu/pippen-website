@@ -1,0 +1,30 @@
+[[main]]
+    identifier = "bio"
+    name = "Bio"
+    url = "/"
+    weight = 1
+
+[[main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects"
+    weight = 2
+    
+[[main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts"
+    weight = 3
+
+[[main]]
+    identifier = "extras"
+    name = "Extras"
+    url = "/extras"
+    weight = 4
+
+[[main]]
+    identifier = "freelance"
+    name = "Freelance"
+    url = "/freelance"
+    weight = 5
+
