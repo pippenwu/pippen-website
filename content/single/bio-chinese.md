@@ -49,7 +49,7 @@ showthedate: false
 
 漸漸膨脹的 Steam 遊戲庫帶來的煩惱：有時回過神便發覺自己為了解鎖成就而花費太多小時數（e.g. 泰拉瑞亞令人抓狂的釣魚任務）。遊戲絕對是我休閒娛樂首選之一，我喜歡扣人心弦的故事、有趣的遊戲機制、和使友情毀滅的團戰。將興趣與所學結合，我在近幾年參與了不少跟遊戲設計相關的作品。
 
-我近期推薦的遊戲？ [奧伯拉丁的回歸](https://store.steampowered.com/app/653530/Return_of_the_Obra_Dinn/), [邪惡冥刻](https://store.steampowered.com/app/1092790/Inscryption/), [黑帝斯](https://store.steampowered.com/app/1145360/Hades/), [艾爾登法環](https://store.steampowered.com/app/1245620/ELDEN_RING/), and [博德之門3](https://store.steampowered.com/app/1086940/Baldurs_Gate_3/). 我還是個 Riot Games 小粉絲， [英雄聯盟](https://www.leagueoflegends.com/)百年卡在白金，[符文大地傳說](https://playruneterra.com/)有數次打到亞太區的季賽。
+我近期推薦的遊戲？ [奧伯拉丁的回歸](https://store.steampowered.com/app/653530/Return_of_the_Obra_Dinn/), [邪惡冥刻](https://store.steampowered.com/app/1092790/Inscryption/), [黑帝斯](https://store.steampowered.com/app/1145360/Hades/), [艾爾登法環](https://store.steampowered.com/app/1245620/ELDEN_RING/), and [柏德之門3](https://store.steampowered.com/app/1086940/Baldurs_Gate_3/). 我還是個 Riot Games 小粉絲， [英雄聯盟](https://www.leagueoflegends.com/)百年卡在白金，[符文大地傳說](https://playruneterra.com/)有數次打到亞太區的季賽。
 
 {{< youtube id="tqyRrf05WgU" title="City of Light Game Trailer">}}
 ▲ *燈光之城*, 大學遊戲設計課程作品 - [細節點這裡](../../projects/city-of-light/)
