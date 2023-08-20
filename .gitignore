@@ -1,5 +1,5 @@
 .DS_Store
 
 resources/
-themes/
+public/
 node_modules/
