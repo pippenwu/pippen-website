@@ -104,6 +104,12 @@
       @apply mb-5;
     }
 
+    /* Custom code trying to make body text of posts bigger.*/
+    .content p{
+      font-size: 1.2rem;
+      line-height: 150%;
+    }
+
     .content h1, .content h2, .content h3, .content h4, .content h5, .content h6 {
       @apply font-bold text-gray-900 mb-5 pt-2;
     }
