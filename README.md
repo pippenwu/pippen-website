@@ -1,2 +1,2 @@
 # pippen-website
-Pippen Wu's personal portfolio website.
+personal portfolio website.
