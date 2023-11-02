@@ -61,7 +61,7 @@ I'm currently working on a game with a friend, code name *Ascend*. More details 
 ---
 
 ## 🎞️ Film 
-I think film is very effective and versatile both as a visual and narrative medium. From age 12, I became interested in postproduction and kinetic typography, teaching myself the fundamentals of Adobe Flash, Premiere and After Effects. Media art classes at Cornell helped me understand the nuances of cinematic elements such as lighting, sound, and shot sequencing, deepening my appreciation for the intricate efforts that goes into the earlier stages of the production pipeline.
+I think film is very effective and versatile both as a visual and narrative medium. From age 12, I became interested in post-production and kinetic typography, teaching myself the fundamentals of Adobe Flash, Premiere and After Effects. Media art classes at Cornell helped me understand the nuances of cinematic elements such as lighting, sound, and shot sequencing, deepening my appreciation for the intricate efforts that goes into the earlier stages of the production pipeline.
 
 {{< figure src="pride.png" alt="body positivity campaign 2019">}}  
 ▲ Body Positivity Campaign Photoshoot, Pride 2019
