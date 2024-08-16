@@ -4,7 +4,7 @@ draft: false
 date: 2016-05-01T00:00:00.000Z
 description: "The Era of Legends is a role-playing campaign featuring a branching narrative that follows the tales of four protagonists. Excused from English classes, I worked on this independent project for three years throughout high school and it culminated in a 140-page blend of story and gameplay."
 categories:
-- project
+- projects
 tags:
 - writing
 ---
@@ -16,13 +16,13 @@ While some encouraged me to publish it as a book, the significant polish it stil
 The Era of Legends can be read [here](https://drive.google.com/file/d/0B-RjkK2KNFOYa2trd2VzQ1lidFE/view?resourcekey=0-4QnFzFQEL9f6c5g54N_5KQ).
 
 {{< figure src="images/cover.jpg" alt="book cover">}}
-▲ book cover
+<span class='caption'>▲ book cover</span>
 
 {{< figure src="images/poster.jpg" alt="project poster">}}
-▲ poster
+<span class='caption'>▲ poster</span>
 
 {{< figure src="images/photo.jpg" alt="me in highschool">}}
-▲ me in highschool
+<span class='caption'>▲ me in highschool</span>
 
 2014 – May 2016
 

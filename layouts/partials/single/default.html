@@ -2,7 +2,9 @@
     <header class="flex flex-col gap-2">
         {{ partial "single/components/title/large" . }}
         <div class="text-sm font-semibold text-gray-500 flex gap-3">
-        {{ partial "single/components/metatag/time" . }}
+        {{ if not .Params.hideDate }}
+            {{ partial "single/components/metatag/time" . }}
+        {{ end }}
         {{ partial "single/components/metatag/categories" . }}
         </div>
     </header>

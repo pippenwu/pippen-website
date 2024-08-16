@@ -4,7 +4,7 @@ draft: false
 date: 2018-05-01T00:00:00.000Z
 description: "City of Light is a top-down, puzzle-based stealth game where Annette, a mime performer in the era of Art Nouveau, has to use her mime powers to evade hostile mythical creatures and safely reach the level exit."
 categories:
-- project
+- projects
 tags:
 - game development
 ---
@@ -16,17 +16,17 @@ I am the software lead of Fire Works, a team of six students (Amanda Trang, Cath
 The game (for [mac](https://drive.google.com/file/d/12StW34rVRCWCiVgxGchtRuTm_3kdiWM2/view), and for [windows](https://drive.google.com/file/d/1Wq8YzTxDVcejGkISxtfcTEiwjALAmlCA/view)) and [game manual](https://drive.google.com/file/d/1zdIreeRSUncBHh4fuYKexzef8E0Zlxwn/view) are available for download. Here is our [github repository](https://github.com/Oliviafx/cs3152-game).
 
 {{< youtube id="tqyRrf05WgU" title="game trailer">}}
-▲ game trailer
+<span class='caption'>▲ game trailer</span>
 
 {{< figure src="images/game-screenshot-01.png" alt="game screenshot 1">}}
 ---
 {{< figure src="images/game-screenshot-02.png" alt="game screenshot 2">}}
 ---
 {{< figure src="images/game-screenshot-03.png" alt="game screenshot 3">}}
-▲ screenshots of the game
+<span class='caption'>▲ screenshots of the game</span>
 
 {{< figure src="images/banner.jpg" alt="game banner">}}
-▲ game banner
+<span class='caption'>▲ game banner</span>
 
 January 2018 – May 2018
 

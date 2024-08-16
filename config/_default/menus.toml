@@ -17,14 +17,20 @@
     weight = 3
 
 [[main]]
+    identifier = "draws"
+    name = "Draws"
+    url = "/draws"
+    weight = 5
+
+[[main]]
     identifier = "extras"
     name = "Extras"
     url = "/extras"
-    weight = 4
+    weight = 5
 
 [[main]]
-    identifier = "freelance"
-    name = "Freelance"
-    url = "/freelance"
-    weight = 5
+    identifier = "tutoring"
+    name = "Tutoring"
+    url = "/tutoring"
+    weight = 6
 

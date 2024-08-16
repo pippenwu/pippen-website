@@ -4,7 +4,7 @@ draft: false
 date: 2019-08-16T00:00:00.000Z
 description: "Escape the Moonscape is an experimental virtual tour offering an immersive exploration of the distinctive moon-like landscapes nestled in southern Taiwan. The tour combines aerial footage with interactive storytelling and game elements."
 categories:
-- project
+- projects
 tags:
 - internship
 ---
@@ -18,25 +18,25 @@ I wrote [this](https://pepper-mint.medium.com/%E6%88%91%E7%95%B6%E5%B7%A5%E7%A8%
 You can try out the gameplay and user experience prototype [here](https://pages.github.coecis.cornell.edu/hw473/moonscape-world/).
 
 {{< youtube id="b5Mmx39tNRA" title="Gameplay and User Experience Prototype">}}
-▲ gameplay and user experience prototype
+<span class='caption'>▲ gameplay and user experience prototype</span>
 
 {{< figure src="images/title-screen.png" alt="title screen of the experience">}}
-▲ title screen
+<span class='caption'>▲ title screen</span>
 
 {{< figure src="images/experience-intro.png" alt="introduction to the experience">}}
-▲ story introduction
+<span class='caption'>▲ story introduction</span>
 
 {{< figure src="images/phone-mock.png" alt="phone mock">}}
-▲ app mockup
+<span class='caption'>▲ app mockup</span>
 
 {{< figure src="images/game-flow-diagram.png" alt="game flow diagram">}}
-▲ game flow diagram
+<span class='caption'>▲ game flow diagram</span>
 
 {{< figure src="images/story-script.png" alt="game story script">}}
-▲ game narrative
+<span class='caption'>▲ game narrative</span>
 
 {{< figure src="images/team-photo.jpg" alt="photo with the team">}}
-▲ the team at Taiwan AI Labs
+<span class='caption'>▲ the team at Taiwan AI Labs</span>
 
 June 2019 – August 2019
 

@@ -97,14 +97,15 @@
 
 @layer utilities {
     .content a {
-        @apply font-bold underline;
+        @apply font-semibold underline text-zinc-700;
+        font-family: 'Lora', serif;
     }
 
     .content p, .content hr, .content pre, .content dl {
       @apply mb-5;
     }
 
-    /* Custom code trying to make body text of posts bigger.*/
+    /* Custom code to make body text of posts bigger.*/
     .content p{
       font-size: 1.2rem;
       line-height: 150%;
@@ -205,8 +206,6 @@
       @apply font-bold italic
     }
 
-    
-
     .content dd {
       @apply pl-10
     }
@@ -220,4 +219,33 @@
     .tags-list {
       @apply gap-y-2;
     }
+
+    /* Custom code for caption styling */
+    .caption {
+      font-size: 0.8em;
+      font-family: 'IBM Plex Mono', monospace;
+    }
+
+    /* Custom code add extra space when a paragraph immediately follows an image*/
+    figure + p {
+      @apply mt-5;
+    }
+
+    /* Code for image grid for tarot cards */
+    .image-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 20px; /* Adjust the gap between images as needed */
+    }
+  
+    .image-grid figure {
+      margin: 0;
+    }
+
+    @media (max-width: 768px) {
+      .image-grid {
+        grid-template-columns: 1fr; /* Stack images in one column on smaller screens */
+      }
+    }
+    /* End code image grid */
 }

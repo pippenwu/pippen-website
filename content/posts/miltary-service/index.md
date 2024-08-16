@@ -28,7 +28,7 @@ categories:
 殘酷的現實逼迫我在接下來十分鐘做出將左右後面172,800分鐘人生的決定。也沒時間猶豫，將工作啊生活啊朋友啊目標啊這些都先丟到一旁，充滿驚喜（？）與歡笑（？）的國軍生涯正要展開。
 
 {{< figure src="images/summons.png" alt="military summons">}}
-▲陷阱卡：「陸軍常備役XX梯次徵集令」。（目前）只能對特定生理男性玩家發動。
+<span class='caption'>▲陷阱卡：「陸軍常備役XX梯次徵集令」。（目前）只能對特定生理男性玩家發動。</span>
 
 ## 新手村：綠色煙霧
 創建新角色相當簡單：衣服選迷彩，髮型選光頭。力量跟敏捷能過體檢就行，智力不用點，幸運盡量擲高一點。
@@ -65,12 +65,12 @@ categories:
 譬如，連長跟我們說在新訓中心每人每天的餐費是93元。93元！剛開始幾天吃不習慣會一直覺得很餓。不過到後來，這段時期是我人生第一次覺得白飯配滷汁這麼香。
 
 {{< figure src="images/food.png" alt="food pie graph">}}
-▲ 什麼什麼親愛精誠，什麼什麼兩路服從之類der
+<span class='caption'>▲ 什麼什麼親愛精誠，什麼什麼兩路服從之類der</span>
 
 又譬如，作息時間很健康，但跟正常學生/社會新鮮人作息大概相差甚遠，一開始要調時差，會辛苦一點。
 
 {{< figure src="images/sleep-schedule.jpeg" alt="sleep schedule chart">}}
-▲ 很佩服早半個小時起來摺蚊帳棉被的你們，但不要吵醒我好嗎 :目
+<span class='caption'>▲ 很佩服早半個小時起來摺蚊帳棉被的你們，但不要吵醒我好嗎 :目</span>
 
 差不多入伍一個禮拜後，新兵剛開始比較適應環境，會有連續好幾天一大坨長官們到營區進行招募宣導（多到會從一樓一路排到二樓那種）。其他各單位會派些帥哥美女來，用各種方式利誘常備役簽當志願役。
 
@@ -81,7 +81,7 @@ categories:
 （以上言論不代表本人立場）
 
 {{< figure src="images/recruit.png" alt="recruiting">}}
-▲ 招募宣導圖請自取，別說我都沒替國軍弟兄發聲
+<span class='caption'>▲ 招募宣導圖請自取，別說我都沒替國軍弟兄發聲</span>
 
 聽了這麼多招募，其實志願役跟其他職業一樣，就是一種選擇，也有些人適合這條路。反正就是自己考慮清楚，因為沒有人可以幫你的人生作主。而對沒興趣走這條路的我，接連的宣導是另類的精神折磨，幸好有紙跟筆，可以借做筆記之名義塗鴉，或寫些字來解悶。或是像小學生一樣戳前面鄰兵的背，但可能兩人都會被叫出去罰站就是了。
 
@@ -95,12 +95,12 @@ categories:
 其他兵種我不暸解，不過以野戰砲兵來說，轉職後會解鎖一整棵新的技能樹。
 
 {{< figure src="images/skill-tree-02.png" alt="skill tree 02">}}
-▲ 轉職！野戰砲兵技能樹
+<span class='caption'>▲ 轉職！野戰砲兵技能樹</span>
 
 技能大多是火砲相關，因為野戰砲兵故名思義，專長是打野砲（喂）。沒有實彈射擊，所以就是整天在炙熱的太陽底下練習跳砲操，熟悉口令和動作。砲操簡單來說，就是一系列的火砲操作準則，每個人把責任位子分好，把負責做的事情喊出來，跳得好的話是還滿帥的。
 
 {{< figure src="images/howitzer-and-crew.png" alt="howtizer and crew">}}
-▲ 射擊任務！第二砲，榴彈，AYP號，四號裝藥，白色藥包
+<span class='caption'>▲ 射擊任務！第二砲，榴彈，AYP號，四號裝藥，白色藥包</span>
 
 技能樹上的左上角，有個乍看有點突兀的被動技能：「閱讀空氣」。但別小看它，為了在軍中生存下去，這技能越早點滿越好。
 
@@ -159,22 +159,22 @@ categories:
 把一群男生丟在一起就是會發生一些 guy’s talk：
 
 {{< figure src="images/guy-talk.png" alt="guy talk">}}
-▲ 只出一張嘴真的是
+<span class='caption'>▲ 只出一張嘴真的是</span>
 
 還會有一些蠢事：
 
 {{< figure src="images/reporting-for-duty.png" alt="reporting for duty">}}
-▲ 背報告詞背到瘋掉的結果
+<span class='caption'>▲ 背報告詞背到瘋掉的結果</span>
 
 但也有讓我覺得心很暖的幾幕。
 
 {{< figure src="images/dont-mind.png" alt="don't mind">}}
-▲ 最後就大家一起掃地
+<span class='caption'>▲ 最後就大家一起掃地</span>
 
 所謂不打不相識，有時吵一架更能增進感情。而且被長官罵過後，就有共同假想敵人，這樣就有話題了！
 
 {{< figure src="images/bro.png" alt="bro">}}
-▲ 喂，不要打架．．．疑？
+<span class='caption'>▲ 喂，不要打架．．．疑？</span>
 
 有點回到高中的感覺呢。
 
@@ -184,7 +184,7 @@ categories:
 長輩不是喜歡說，男孩在當過兵後才會蛻變成男人？
 
 {{< figure src="images/man-transformation.png" alt="boy to man">}}
-▲ 變成「男人」了，感覺很帥（dab）
+<span class='caption'>▲ 變成「男人」了，感覺很帥（dab</span>
 
 得當常備役的學弟，如果志不在當兵，我的建議是：兵役生活儘早適應，但不要習以為常。
 
@@ -204,7 +204,7 @@ categories:
 以及與鄰兵的合照，以此紀念．．．
 
 {{< figure src="images/the-crew.jpeg" alt="the crew">}}
-▲ 錘子結訓趴 （不解釋）
+<span class='caption'>▲ 錘子結訓趴 （不解釋</span>
 
 ．．．那四個月。
 

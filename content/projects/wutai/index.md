@@ -4,7 +4,7 @@ draft: false
 date: 2017-07-17T00:00:00.000Z
 description: "Funded by the Youth Development Administration, four of my high school friends and I went deep into the mountains of Vedai to experience the culture of the Rukai people."
 categories:
-- project
+- projects
 tags:
 - excursion
 ---
