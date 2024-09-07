@@ -1,10 +1,12 @@
 ---
 draft: false
+date: 2024-09-07T00:00:00.000Z
+description: "Tutoring resume, last updated September 2024."
 hideDate: true
 ---
 
 <div onclick="openFullscreenResume()" style="cursor: pointer;">
-    {{< figure src="tutorcv2024.jpg" alt="tutoring resume" >}}
+    {{< figure src="images/tutorcv2024.jpg" alt="tutoring resume" >}}
 </div>
 
 <script>

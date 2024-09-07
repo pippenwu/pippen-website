@@ -34,7 +34,7 @@ I have over eight years of freelance translation experience, working with notabl
 - JLPT N1 Certification (August 2012)
 - TOEFL Score: 114/120 (April 2013)
 
-You can find my tutoring work resume [here](tutoring/).
+You can find my tutoring work resume [here](extras/tutoring-resume/).
 
 ---
 
