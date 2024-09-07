@@ -1,10 +1,10 @@
 ---
-# title: "Tutor Resume"
-# header: "Tutor Resume"
+draft: false
+hideDate: true
 ---
 
 <div onclick="openFullscreenResume()" style="cursor: pointer;">
-    {{< figure src="/tutoring/tutorcv2024.png" alt="tutoring resume" >}}
+    {{< figure src="tutorcv2024.jpg" alt="tutoring resume" >}}
 </div>
 
 <script>

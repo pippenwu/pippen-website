@@ -28,9 +28,3 @@
     url = "/extras"
     weight = 5
 
-[[main]]
-    identifier = "tutoring"
-    name = "Tutoring"
-    url = "/tutoring"
-    weight = 6
-
