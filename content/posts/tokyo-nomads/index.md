@@ -54,7 +54,7 @@ tags:
 
 ---
 
-相關連結：[Oni-chan](https://app.akindo.io/communities/RDo68AZVVs61q8V1V/products/63z0R3MWNF3JEpaL) ｜[github](https://github.com/t42ji2ji/onichan_eth_tokyo_2024)｜[ETH Tokyo 2024](https://app.akindo.io/hackathons/3dXM7ZO2WsxvlkXp)
+相關連結：[Oni-chan](https://app.akindo.io/communities/RDo68AZVVs61q8V1V/products/63z0R3MWNF3JEpaL) ｜[github](https://github.com/t42ji2ji/onichan_eth_tokyo_2024)｜[slides](https://www.figma.com/slides/4NlVIqlBsGNuvRgVxYIvLq/ONI-CHAN?node-id=5-399&t=ONHEeZlO6yNd84Ew-1Q9Qw)｜[ETH Tokyo 2024](https://app.akindo.io/hackathons/3dXM7ZO2WsxvlkXp)
 
 蠻好笑的一件事是黑客松當天早上因為宿醉而晚抵達的 CEO，在說服他組組員換人改成他失敗以後，一邊喊著自己*被排擠*，一邊硬是組成了一人隊伍單幹出了一個題目，也獲得了主要賽道 Freedom To Transact 亞軍和 Metamask/Linea 獎項。只能說，真心佩服。
 
